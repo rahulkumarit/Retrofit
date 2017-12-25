@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "755256223048",
+    "firebase_url": "https://retofitsample.firebaseio.com",
+    "project_id": "retofitsample",
+    "storage_bucket": "retofitsample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755256223048:android:2e9f840dfc10c68b",
+        "android_client_info": {
+          "package_name": "com.rnd.retofitsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755256223048-ckrqq70e2aeub1p9seh1ekddbr72sld3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnd.retofitsample",
+            "certificate_hash": "b90fcdb0b18134e25f694c032ba8ec70ce210bc0"
+          }
+        },
+        {
+          "client_id": "755256223048-rjlbsidcp4np5qgg1e2gbjesbq3job5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkCrP7n7f3SfwpsggidQl3kZ1dYwVeyMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755256223048-rjlbsidcp4np5qgg1e2gbjesbq3job5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

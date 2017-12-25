@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetofitSample</string>
+    <string name="signed_in_fmt">Signed In</string>
+    <string name="loading">Loading...</string>
+
+
+</resources>
